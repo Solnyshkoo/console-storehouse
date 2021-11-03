@@ -1,0 +1,12 @@
+/Users/ksenia/Projects/Vegetables/Vegetables/obj/Debug/netcoreapp3.1/Vegetables.csprojAssemblyReference.cache
+/Users/ksenia/Projects/Vegetables/Vegetables/obj/Debug/netcoreapp3.1/Vegetables.AssemblyInfoInputs.cache
+/Users/ksenia/Projects/Vegetables/Vegetables/obj/Debug/netcoreapp3.1/Vegetables.AssemblyInfo.cs
+/Users/ksenia/Projects/Vegetables/Vegetables/obj/Debug/netcoreapp3.1/Vegetables.csproj.CoreCompileInputs.cache
+/Users/ksenia/Projects/Vegetables/Vegetables/bin/Debug/netcoreapp3.1/Vegetables.deps.json
+/Users/ksenia/Projects/Vegetables/Vegetables/bin/Debug/netcoreapp3.1/Vegetables.runtimeconfig.json
+/Users/ksenia/Projects/Vegetables/Vegetables/bin/Debug/netcoreapp3.1/Vegetables.runtimeconfig.dev.json
+/Users/ksenia/Projects/Vegetables/Vegetables/bin/Debug/netcoreapp3.1/Vegetables.dll
+/Users/ksenia/Projects/Vegetables/Vegetables/bin/Debug/netcoreapp3.1/Vegetables.pdb
+/Users/ksenia/Projects/Vegetables/Vegetables/obj/Debug/netcoreapp3.1/Vegetables.dll
+/Users/ksenia/Projects/Vegetables/Vegetables/obj/Debug/netcoreapp3.1/Vegetables.pdb
+/Users/ksenia/Projects/Vegetables/Vegetables/obj/Debug/netcoreapp3.1/Vegetables.genruntimeconfig.cache
